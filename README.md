@@ -1,5 +1,5 @@
 ## Hello, World!
-Check my [personal page](https://vvalentinedev.github.io/landing-page). Source code available [here](https://github.com/vvalentinedev/landing-page).
+Check out my [personal page](https://vvalentinedev.github.io/landing-page). Source code available in my repos.
 ```
                                 .:xxxxxxxx:.
                              .xxxxxxxxxxxxxxxx.
