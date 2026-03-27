@@ -1,8 +1,8 @@
-# Hello, World!
+# Hello, World! 🌎
 
 ![rainy_day](https://github.com/user-attachments/assets/02537a0f-c9c3-48ff-9c9a-0761b062712f)
 
-# Active Projects
+# Active Projects 🔨
 - AddIndex: a utility to manage Indexes in Markdown files.
 <!--
 **vvalentinedev/vvalentinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
