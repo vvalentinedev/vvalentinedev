@@ -63,6 +63,9 @@ Check out my [personal page](https://vvalentinedev.github.io/landing-page). Sour
 ░         ░░ ░░                             ▒▒▒▒▒▒▒▒▒██████░▒░▒░░▒█▒▓▒░░█            ░▒▒▒▒░░▓█████░▒▒▒▒          █ ███████████
 ░░        ░░   ░                            ░▒▒▒▒▒▒▒▒▓▓█████░▒▒░▓▓█▒▒▒░ ░            ░▒▒▒▒░░▒▓████▓▒▒▒▒▒▒         █ ██████████
 ```
+# Active Projects
+
+- AddIndex: a utility to manage Indexes in Markdown files.
 <!--
 **vvalentinedev/vvalentinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
