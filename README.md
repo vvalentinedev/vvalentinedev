@@ -1,6 +1,10 @@
-# Hello, World!
-![rainy_day](https://github.com/user-attachments/assets/02537a0f-c9c3-48ff-9c9a-0761b062712f)
+# Hello, World! 🌎
+Visit my [Personal page](https://vvalentinedev.github.io/landing-page).
 
+![rainy_day](https://github.com/user-attachments/assets/02537a0f-c9c3-48ff-9c9a-0761b062712f)
+# Active Projects
+
+- ✒ **addIndex**: a utility for adding indexes to Markdown files 
 
 <!--
 **vvalentinedev/vvalentinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
