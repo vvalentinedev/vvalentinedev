@@ -6,6 +6,7 @@ Visit my [Personal page](https://vvalentinedev.github.io/landing-page).
 
 - ✒ **addIndex**: a utility for adding indexes to Markdown files
 - 📈 **stock-stalker**: a CLI utility to monitor your stocks
+- 🎥 **MoviesDB**: A Full Stack web application to check your favorite movies 
 
 <!--
 **vvalentinedev/vvalentinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
