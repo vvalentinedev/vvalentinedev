@@ -4,7 +4,6 @@ Visit my [Personal page](https://vvalentinedev.github.io/landing-page).
 ![rainy_day](https://github.com/user-attachments/assets/02537a0f-c9c3-48ff-9c9a-0761b062712f)
 # Active Projects
 
-- ✒ **addIndex**: a utility for adding indexes to Markdown files
 - 📈 **stock-stalker**: a CLI utility to monitor your stocks
 - 🎥 **MoviesDB**: A Full Stack web application to check your favorite movies 
 
